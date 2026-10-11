@@ -1,0 +1,7 @@
+[2026-10-11T08:54:58Z] === AST ITERATION 1 START | repo=aio-libs/aiocassandra sha=023dd429 ===
+[2026-10-11T08:54:58Z] [iter=1] PHASE START: ast repo=aio-libs/aiocassandra sha=023dd429
+[2026-10-11T08:54:58Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T08:55:00Z] [iter=1] AST chunks built count=1 triples=19601
+[2026-10-11T08:55:00Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/023dd429e1780251c585d698e1dbcfb4ec15c377/.complete
+[2026-10-11T08:55:00Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-11T08:55:00Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
